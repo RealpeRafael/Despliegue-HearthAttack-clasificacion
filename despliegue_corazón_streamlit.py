@@ -106,7 +106,7 @@ data['Prediccion']=Y_pred_labels
 data.head()
 
 #predicciones finales
-display(data)
+st.dataframe(data)
 
 # Recordar medida de error del modelo
 
