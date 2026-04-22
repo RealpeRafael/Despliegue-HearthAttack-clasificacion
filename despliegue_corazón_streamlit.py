@@ -28,7 +28,7 @@ modelo, labelencoder, variables, min_max_scaler = pickle.load(open(filename, 'rb
 #data = pd.read_excel("predecir mortalidad_ataques_cardiacos.xlsx")
 #data.head()
 
-!pip install streamlit
+#!pip install streamlit
 
 # Aquí va la interfaz gráfica
 #Interfaz gráfica
